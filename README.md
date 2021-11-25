@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abduganiosman
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Azure/AWS Cloud
+- 🌱 I’m currently learning Full-Stack Devlopment and Cloud 
 - 📫 How to reach me 
 
 <!---
