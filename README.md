@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @abduganiosman
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full-Stack Devlopment and Cloud 
-- 📫 How to reach me 
+- 👀 I’m a Software Engineer
 
 <!---
 abduganiosman/abduganiosman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
